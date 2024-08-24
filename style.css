@@ -716,9 +716,13 @@ footer p {
 
 
     .container-slider {
-        width: 95%;
+        width: 90%;
         min-height: 250px;
         min-width: 300px;
+    }
+
+    .container-images img {
+        width: 70%;
     }
 
     .slider {
