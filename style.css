@@ -733,12 +733,12 @@ footer p {
     #prev-button {
         margin-left: 0px;
         padding-left: 0px;
-        width: auto;
+        width: 40px;
     }
 
     #next-button {
         padding-right: 0px;
-        width: auto;
+        width: 40px;
     }
 
     .contato {
