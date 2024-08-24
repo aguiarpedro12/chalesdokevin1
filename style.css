@@ -722,8 +722,8 @@ footer p {
     }
 
     .container-images img {
-        width: auto;
-        height: auto;
+        width: 80%;
+        height: 50%;
     }
 
     .slider {
