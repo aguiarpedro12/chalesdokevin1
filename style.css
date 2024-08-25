@@ -128,7 +128,8 @@ section {
     text-align: center;
 }
 .fotos p {
-    font-size: 15px;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 .gallery {
@@ -209,6 +210,11 @@ section {
 
 #chales, #chale-desc {
     text-align: center;
+}
+
+#chale-desc {
+    font-size: 20px;
+    font-weight: 500;
 }
 
 .chale-box {
@@ -360,6 +366,8 @@ section {
     text-align: center;
     padding: 0;
     margin: 0;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 
@@ -437,7 +445,8 @@ section {
 
 #feedback p {
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 
